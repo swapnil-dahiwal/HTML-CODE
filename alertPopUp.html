@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset=utf-8>
+<title>JavaScript prompt() example-2</title>
+</head>
+<body>
+<script type="text/javascript">
+
+function abc(){
+visiter_name = prompt("Input your name : ")
+if(visiter_name != null && visiter_name != "")
+alert("Your Name is : "+visiter_name);
+else 
+alert("Blank name ...!")
+
+}
+</script>
+
+ <div class="container">
+    <label for="uname"><b>Username</b></label>
+    <input type="text" placeholder="Enter Username" name="uname" required>
+	</br>
+	</br>
+	
+	
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required>
+	</br>
+	</br>
+    <button onclick="abc()" type="submit">Login</button>
+	</br>
+	
+    <label>
+      <input type="checkbox" checked="checked" name="remember"> Remember me
+    </label>
+  </div>
+  
+
+
+
+
+</body>
+</html>

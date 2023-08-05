@@ -1,0 +1,21 @@
+Right Click URL:
+
+https://swisnl.github.io/jQuery-contextMenu/demo.html
+
+
+
+drag and drop URL
+
+http://www.dhtmlgoodies.com/scripts/drag-drop-custom/demo-drag-drop-3.html
+
+
+
+slider 
+
+https://jqueryui.com/slider/
+
+
+Resizable
+
+https://jqueryui.com/resizable/
+
